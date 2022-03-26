@@ -1,0 +1,16 @@
+﻿body {
+    background-color: #C39BD3;
+    font-family: Monospace;
+    margin-top:50px;
+}
+.button {
+    background-color: #ffcccc;
+}
+.textbox {
+    background-color: #ffe6e6;
+    width:200px;
+} 
+h1{
+    margin-left:50px;
+}
+  
